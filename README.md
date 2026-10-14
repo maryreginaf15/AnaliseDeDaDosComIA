@@ -29,3 +29,8 @@ Linguagem: Python
 Área de estudo: Análise e Manipulação de Dados
 Fundamentos: Estatística aplicada
 Aplicação: Análise de dados no contexto industrial
+
+
+
+SENAI ARY TORRES
+PROF° ALEXANDRE BECAS 
